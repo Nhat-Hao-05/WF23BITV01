@@ -1,0 +1,10 @@
+D:\VS code\9thagn3\9thagn3\bin\Debug\9thagn3.exe.config
+D:\VS code\9thagn3\9thagn3\bin\Debug\9thagn3.exe
+D:\VS code\9thagn3\9thagn3\bin\Debug\9thagn3.pdb
+D:\VS code\9thagn3\9thagn3\obj\Debug\9thagn3.csproj.AssemblyReference.cache
+D:\VS code\9thagn3\9thagn3\obj\Debug\_9thagn3.Form1.resources
+D:\VS code\9thagn3\9thagn3\obj\Debug\_9thagn3.Properties.Resources.resources
+D:\VS code\9thagn3\9thagn3\obj\Debug\9thagn3.csproj.GenerateResource.cache
+D:\VS code\9thagn3\9thagn3\obj\Debug\9thagn3.csproj.CoreCompileInputs.cache
+D:\VS code\9thagn3\9thagn3\obj\Debug\9thagn3.exe
+D:\VS code\9thagn3\9thagn3\obj\Debug\9thagn3.pdb
